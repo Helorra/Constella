@@ -1,7 +1,7 @@
-{
+﻿{
     "home": {
         "title": "Constella",
-        "subtitle": "Open Source ⦁ Collaboration ⦁ Infinite Possibilities",
+        "subtitle": "Open Source �?Collaboration �?Infinite Possibilities",
         "controls": {
             "language": "Switch Language",
             "theme": "Switch Theme"
@@ -547,28 +547,35 @@
             "copyLink": "Copy Link",
             "delete": "Delete Asset",
             "deleteConfirmTitle": "Delete Asset",
-            "deleteConfirmMessage": "Are you sure you want to delete this asset? This action cannot be undone."
-        },
-        "history": {
-            "createSnapshot": "Create Snapshot",
-            "creating": "Creating...",
-            "autoSaveEnabled": "Auto-save enabled",
-            "snapshotList": "Snapshot List",
-            "snapshot": "Snapshot",
-            "restore": "Restore to this snapshot",
-            "delete": "Delete Snapshot",
-            "empty": "No snapshots yet",
-            "emptyHint": "Click \"Create Snapshot\" to save current state",
-            "autoSaveSnapshot": "Auto-save Snapshots",
-            "interval": "Interval",
-            "seconds": "seconds",
-            "minute": "minute",
-            "minutes": "minutes",
-            "autoSave": "Auto-save",
-            "restoreConfirmTitle": "Restore Snapshot",
-            "restoreConfirmMessage": "Are you sure you want to restore to this snapshot? Unsaved changes will be lost.",
-            "deleteConfirmTitle": "Delete Snapshot",
             "deleteConfirmMessage": "Are you sure you want to delete this snapshot? This action cannot be undone."
+        },
+        "todo": {
+            "title": "To-Do",
+            "open": "Open To-Do",
+            "collapse": "Collapse",
+            "placeholder": "Add todo...",
+            "empty": "No todos yet",
+            "markDone": "Mark as done",
+            "markUndone": "Mark as undone",
+            "delete": "Delete",
+            "filterAll": "All",
+            "filterMine": "Mine",
+            "filterUnassigned": "Unassigned",
+            "filterOverdue": "Overdue",
+            "unassigned": "Unassigned",
+            "noDdl": "No deadline",
+            "overdueToday": "Overdue today",
+            "overdueDays": "Overdue {days}d",
+            "selectAssignee": "Assignee",
+            "selectDdl": "Deadline",
+            "clearAssignee": "Remove assignee",
+            "clearDdl": "Remove deadline",
+            "today": "Today",
+            "tomorrow": "Tomorrow",
+            "weekend": "Weekend",
+            "apply": "Apply",
+            "me": "Me",
+            "completed": "Completed"
         }
     },
     "joinRoom": {
@@ -806,7 +813,7 @@
     },
     "about": {
         "title": "About Constella",
-        "subtitle": "Open Source ⦁ Collaboration ⦁ Infinite Possibilities",
+        "subtitle": "Open Source �?Collaboration �?Infinite Possibilities",
         "version": "Version",
         "description": "Constella is a secure real-time collaborative infinite canvas application that can be deployed to your own server, designed for connecting notes, graphics, and multimedia.",
         "features": {
